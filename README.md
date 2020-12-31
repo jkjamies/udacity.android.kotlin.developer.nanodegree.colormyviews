@@ -3,7 +3,6 @@ ColorMyViews Application from Udacity Android Kotlin Developer Nanodegree progra
 
 Highlights:
 
-Data Binding - Data
 Constraint Layout
 Constraints
 Ratios
