@@ -3,8 +3,8 @@ ColorMyViews Application from Udacity Android Kotlin Developer Nanodegree progra
 
 Highlights:
 
-Constraint Layout
-Constraints
-Ratios
-Chaining
+Constraint Layout\
+Constraints\
+Ratios\
+Chaining\
 Baseline Constraint
